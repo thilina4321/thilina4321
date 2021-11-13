@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying at Institute Of Technology University Of Moratuwa as a Information Technology student.
-- 👋 Currently I am doing my internship. 
+- 👋 Currently I am doing my internship and my degree. 
 - 🌱 I’m currently working with Angular,React, Flutter , Node and Golang.
 - 👋 I'm studing vue.js and nextJs, I feeling love about it.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thilina-dilshan-784048187/)
