@@ -12,7 +12,7 @@
 
 - 🌱 I’ have 8 months experience as Intern software engineer @ Arimac.
 
-- 💬 Ask me about **MEARN STACK**
+- 💬 Ask me about **MERN STACK**
 
 
 - ⚡ I Have hands on industry experience of **REACT.js , NODE.js , NEXT.js , MONDOGB**
