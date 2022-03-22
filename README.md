@@ -16,7 +16,7 @@
 
 
 - ⚡ I Have hands on industry experience of **REACT.js , NODE.js , NEXT.js , MONDOGB**
-- - ⚡ I also have work with technologies like **ANGULAR , FLUTTER , VUE.js, DOCKER**
+- ⚡ I also have work with technologies like **ANGULAR , FLUTTER , VUE.js, DOCKER**
 
 
 
