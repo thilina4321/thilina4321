@@ -2,7 +2,7 @@
 # < ThilinaDilshan />
 
 <h1 align="center">Hi 👋 I'm Thilina Dilshan </h1>
-<h3 align="center"> A passionate full stack developer. </h3>
+<h3 align="center"> A passionate full stack developer who love to learn </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently studing at **Institute of technology university of Moratuwa**
 
-- 🌱 I’ have 8 months Industry experience as Intern software engineer @ Arimac.
+- 🌱 I have 8 months Industry experience as Intern software engineer @ Arimac.
 
-- 💬 Ask me about **MERN STACK**
+- 💬 Love to talk, about **MERN STACK**
 
 
 - ⚡ I Have hands on industry experience of **REACT.js , NODE.js , NEXT.js , MONDOGB**
