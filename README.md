@@ -15,10 +15,10 @@
 - 💬 Love to talk, about **MERN STACK**
 
 
-- ⚡ I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
+- I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
 
 
-- ⚡ Also have work with technologies like **ANGULAR , FLUTTER , VUE and DOCKER**
+- Also have work with technologies like **ANGULAR , FLUTTER , VUE and DOCKER**
 
 
 
