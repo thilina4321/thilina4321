@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studing at **Institute of technology university of Moratuwa**
 
-- 🌱 I have 8 months Industry experience as Intern software engineer @ Arimac.
+- 🌱 I am doing software development
 
 - 💬 Love to talk, about **MERN STACK**
 
