@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
 
 
-- 🔭 I’m currently studing at **Institute of technology university of Moratuwa**
+- 🔭 I’m undergraduate at **Institute of technology university of Moratuwa.**
 
-- 🌱 I am doing software development
+- 🌱 I am loving to develop software applications.
 
-- 💬 Love to talk, about **MERN STACK**
+- 💬 Love to talk, about **MERN STACK.**
 
 
 - I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
