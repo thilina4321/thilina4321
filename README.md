@@ -38,7 +38,7 @@
 <h2 align="center">Languages and Tools I used recently:</h3>
 <p align="center">
   <a href="https://profile.codersrank.io/user/thilina4321/" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thilina4321&skills=JavaScript,TypeScript,Vue,React,Flutter,Angular&width=820" alt="CodersRank skills chart"/>
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thilina4321&skills=JavaScript,TypeScript,Vue,CSS,Flutter,Dart,JSON,SQL&width=820" alt="CodersRank skills chart"/>
   </a>
 </p>
 
