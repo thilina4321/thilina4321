@@ -37,7 +37,7 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thilina4321" alt="CodersRank badge" width="420" />
 <h2 align="center">Languages and Tools I used recently:</h3>
 <p align="center">
-  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+  <a href="https://profile.codersrank.io/user/thilina4321/" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thilina4321&skills=JavaScript,TypeScript,Vue,React,Flutter,Angular&width=820" alt="CodersRank skills chart"/>
   </a>
 </p>
