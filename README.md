@@ -32,15 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilina4321&show_icons=true&locale=en&theme=tokyonight" alt="thilina4321" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thilina4321&&theme=tokyonight" alt="thilina4321" /></p>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thilina4321" alt="CodersRank badge" width="420" />
-<h2 align="center">Languages and Tools I used recently:</h3>
-<p align="center">
-  <a href="https://profile.codersrank.io/user/thilina4321/" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thilina4321&skills=JavaScript,TypeScript,Vue,CSS,Flutter,Dart,JSON,SQL&width=820" alt="CodersRank skills chart"/>
-  </a>
-</p>
 
 
 
