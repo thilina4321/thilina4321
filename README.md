@@ -35,8 +35,6 @@
 
 ![](https://komarev.com/ghpvc/?username=thilina4321)
   
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 
 
 
