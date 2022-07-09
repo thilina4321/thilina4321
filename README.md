@@ -33,7 +33,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilina4321&theme=dark)](https://git.io/streak-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thilina4321)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 
 
