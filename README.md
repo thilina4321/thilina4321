@@ -34,6 +34,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilina4321&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=thilina4321)
+  
+ ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
