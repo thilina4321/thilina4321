@@ -31,7 +31,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321)](https://github.com/thilina4321/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilina4321)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilina4321&theme=dark)](https://git.io/streak-stats)
 
 
 
