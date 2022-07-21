@@ -31,7 +31,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321&theme=dark)](https://github.com/thilina4321/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thilina4321&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=thilina4321)
   
