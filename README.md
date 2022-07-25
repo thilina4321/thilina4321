@@ -31,6 +31,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321&theme=dark)](https://github.com/thilina4321/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilina4321&layout=compact)](https://github.com/thilina4321/github-readme-stats)
+
+
 
 ![](https://komarev.com/ghpvc/?username=thilina4321)
   
