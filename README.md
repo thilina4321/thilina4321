@@ -4,7 +4,8 @@
 <h1 align="center">Hey 👋 I am Thilina Dilshan</h1>
 <h3 align="center"> A passionate full stack software developer who love to learn </h3>
 <h3> <a href="https://skyline.github.com/thilina4321" target="_blank"> Skyline </a> </h3>
-![program](https://user-images.githubusercontent.com/38967633/184188935-1a3e2d70-2fe2-4db3-b05f-e579bc2a58c2.jpeg)
+
+<p align="left"> <img src="https://user-images.githubusercontent.com/38967633/184188935-1a3e2d70-2fe2-4db3-b05f-e579bc2a58c2.jpeg" alt="thilina4321" /> </p>
 
 
 
