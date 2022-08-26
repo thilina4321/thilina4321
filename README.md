@@ -37,3 +37,5 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321&theme=dark)](https://github.com/thilina4321/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
