@@ -32,8 +32,9 @@
 
 ![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilina4321&theme=dark&show_icons=true&count_private=true)
 
-![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilina4321&count_private=true)
-
+[![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilina4321)](https://github.com/thilina4321/github-readme-stats)
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilina4321&layout=compact&theme=dark)](https://github.com/thilina4321/github-readme-stats)
 
 
