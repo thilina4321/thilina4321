@@ -38,6 +38,4 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321&theme=onedark)](https://github.com/thilina4321/github-profile-trophy)
-
-[![Thilina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thilina4321)](https://github.com/thilina4321/github-readme-stats)
   
