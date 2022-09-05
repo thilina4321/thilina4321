@@ -6,9 +6,6 @@
 <h3> <a href="https://skyline.github.com/thilina4321" target="_blank"> Skyline </a> </h3>
 
 
-<img width="464" alt="Screenshot 2022-08-11 at 22 19 11" src="https://user-images.githubusercontent.com/38967633/184189613-0188199d-08f8-4d6a-a1b8-644478d2e70b.png">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
 
 
