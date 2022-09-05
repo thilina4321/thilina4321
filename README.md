@@ -39,3 +39,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thilina4321&theme=onedark)](https://github.com/thilina4321/github-profile-trophy)
   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thilina4321"/>
