@@ -13,7 +13,7 @@
 
 - 🌱 I am loving to develop software applications
 
-- 💬 Love to talk, about **MERN STACK.**
+- 💬 Love to talk, about **MERN STACK**
 
 
 - I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
