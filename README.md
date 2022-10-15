@@ -18,6 +18,8 @@
 
 - I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
 
+- I Have worked with the both rest and graphQL**
+
 
 - Also have work with technologies like **ANGULAR , FLUTTER , VUE and DOCKER**
 
