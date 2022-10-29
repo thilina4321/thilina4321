@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
 
 
-- 🔭 I’m undergraduate at **Institute of technology university of Moratuwa**
+- 🔭 I’m stuied at **Institute of technology university of Moratuwa**
 
 - 🌱 I am loving to develop software applications
 
