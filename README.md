@@ -16,7 +16,7 @@
 - 💬 Love to talk, about **MERN STACK**
 
 
-- I Have hands on industry experience of **REACT , NODE , NEXT.Js and MONDOGB**
+- I Have hands on industry experience of **REACTJS , NODEJS , NEXTJs and MONDOGB**
 
 - I Have worked with the both rest and graphQL**
 
