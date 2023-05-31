@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
 
 
-- I’m stuied at **INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA ( ITUM / NDT ) :heart: **
+- I’m stuied at **INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA ( ITUM / NDT ) :heart:**
 
 - 🌱 I am loving to develop software applications
 
