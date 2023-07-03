@@ -11,14 +11,14 @@
 
 - I’m stuied at **INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA ( ITUM / NDT ) :heart:**
 
-- 🌱 I am loving to develop software applications
+- I am loving to develop software applications
 
-- 💬 Love to talk, about **MERN STACK**
+- Love to talk, about **MERN STACK**
 
 
 - I Have hands on industry experience of **REACTJS , NODEJS , NEXTJs and MONDOGB**
 
-- I Have worked with the both rest and graphQL**
+- I Have worked with the both **REST and graphQL**
 
 
 - Also have work with technologies like **ANGULAR , FLUTTER , VUE and DOCKER**
