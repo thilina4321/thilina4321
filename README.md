@@ -3,6 +3,11 @@
 
 <h1 align="center">Hey 👋 I am Thilina Dilshan</h1>
 <h3 align="center"> A passionate full stack software developer who love to learn </h3>
+
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 <h3> <a href="https://skyline.github.com/thilina4321" target="_blank"> Skyline </a> </h3>
 
 
