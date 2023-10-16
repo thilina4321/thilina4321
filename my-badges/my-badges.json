@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Viraj-Sankalpa/Track-Nearby-Devices/commit/a8be70670bdfbcdbcca369d7378dd18287712bb1\"><strong>a</strong>8be70670bdfbcdbcca369d7378dd18287712bb1</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/thilina4321/redux-next/commit/ab1d510780012ff5b2988d6ebf9f3824fb2e7396\"><strong>ab</strong>1d510780012ff5b2988d6ebf9f3824fb2e7396</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/thilina4321/nextjs-blog/commit/aed03d2af040a990b7fbb69e0a0bd263090e461d\">aed03d2</a>\n- <a href=\"https://github.com/DhanushikaLakshani/Edit-backend/commit/91350db52fa939fbb742b4a52a802150fb5fe1f8\">91350db</a>\n- <a href=\"https://github.com/DhanushikaLakshani/Frondend-EditProfile/commit/d3a1a034729445d0245bf57d2069dff7e5a41b5b\">d3a1a03</a>\n- <a href=\"https://github.com/DhanushikaLakshani/Frondend-EditProfile/commit/5b7a372f08fd2a176446314cb2b3ca42cf78d85d\">5b7a372</a>\n- <a href=\"https://github.com/Covid-19-Self-Assistant/Final-Project-Mobile-APP/commit/29e5504d670faf5196e2eef2a0383a9e40319a50\">29e5504</a>\n- <a href=\"https://github.com/Covid-19-Self-Assistant/Final-Project-Mobile-APP/commit/fb0cc8e1bc8ad32810f0e0d3aa4ca9374f64a059\">fb0cc8e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/thilina4321/npm-package/commit/97eb5432889702337e422b11ccb8736f7b651b58\">97eb543</a>\n- <a href=\"https://github.com/thilina4321/npm-package/commit/9321fe01a4e599eae9d38d5c474fb64831bb72dc\">9321fe0</a>\n- <a href=\"https://github.com/thilina4321/thilina4321/commit/41b18f3d51500b522d8e77970992df7edfce0eeb\">41b18f3</a>\n- <a href=\"https://github.com/thilina4321/thilina4321/commit/bb67b9ab893884d162231529e7185b2d04ddc3c2\">bb67b9a</a>\n- <a href=\"https://github.com/thilina4321/blood-bank-backend/commit/ebb51e2e470589e3b7473bf904d49605b46aef4f\">ebb51e2</a>\n- <a href=\"https://github.com/thilina4321/blood-bank-backend/commit/9a16f914dec75550b31a0c564182d6ef52968239\">9a16f91</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 1 times.",
+    "body": "- <a href=\"https://github.com/thilina4321/angular-firebase-fitness-app/commit/c5038bbe6b6b5a5dead2781cad58929e773a069e\">c5038bbe6b6b5a5<strong>dead</strong>2781cad58929e773a069e</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sudharaD/beca/commit/9a75fd8a1166c125e8f1f34d878f6d40390bb665\">9a75fd8</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/sudharaD/beca/commit/6e0e24919341d335f770e82602367d63211c26c9\">6e0e249</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/thilina4321/e-commerce/pull/4\">#4</a>: sync main",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  }
+]
