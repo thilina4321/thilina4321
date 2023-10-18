@@ -19,6 +19,7 @@
 <a href="my-badges/covid-19.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/public-keys-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true" alt="I have two public keys" title="I have two public keys" width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true" alt="My favorite word is &quot;from&quot;." title="My favorite word is &quot;from&quot;." width="64"></a>
 <!-- my-badges end -->
 
 <h3> <a href="https://skyline.github.com/thilina4321" target="_blank"> Skyline </a> </h3>

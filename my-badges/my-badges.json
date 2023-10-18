@@ -75,5 +75,12 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"from\".",
+    "body": "My favorite commit message words are:\n\n1. from (used 177 times)\n2. better (used 171 times)\n3. merge (used 167 times)\n4. update (used 167 times)\n5. pull (used 149 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   }
 ]
