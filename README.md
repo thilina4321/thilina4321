@@ -28,19 +28,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina4321&label=Profile%20views&color=0e75b6&style=flat" alt="thilina4321" /> </p>
 
 
-- I’m stuied at **INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA ( ITUM / NDT ) :heart:**
+- I was studied at **INSTITUTE OF TECHNOLOGY UNIVERSITY OF MORATUWA ( ITUM / NDT ) :heart:**
 
-- I am loving to develop software applications
+- I love to develop software applications
 
 - Love to talk, about **MERN STACK**
 
 
-- I Have hands on industry experience of **REACTJS , NODEJS , NEXTJs and MONDOGB**
+- I have hands-on industry experience with **REACTJS, NODEJS, NEXTJs, and MONDOGB**
 
-- I Have worked with the both **REST and graphQL**
+- I Have worked with both **REST and graphQL**
 
 
-- Also have work with technologies like **ANGULAR , FLUTTER , VUE and DOCKER**
+- Also have worked with technologies like **ANGULAR, FLUTTER, VUE, and DOCKER**
 
 
 
